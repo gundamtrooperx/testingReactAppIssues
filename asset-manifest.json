@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/gundamtrooperx/testingreactappissues/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/gundamtrooperx/testingreactappissues/static/js/main.57bf147e.chunk.js",
-    "main.js.map": "/gundamtrooperx/testingreactappissues/static/js/main.57bf147e.chunk.js.map",
-    "runtime-main.js": "/gundamtrooperx/testingreactappissues/static/js/runtime-main.5e31b880.js",
-    "runtime-main.js.map": "/gundamtrooperx/testingreactappissues/static/js/runtime-main.5e31b880.js.map",
-    "static/js/2.d9fbd93a.chunk.js": "/gundamtrooperx/testingreactappissues/static/js/2.d9fbd93a.chunk.js",
-    "static/js/2.d9fbd93a.chunk.js.map": "/gundamtrooperx/testingreactappissues/static/js/2.d9fbd93a.chunk.js.map",
-    "static/js/3.83b79713.chunk.js": "/gundamtrooperx/testingreactappissues/static/js/3.83b79713.chunk.js",
-    "static/js/3.83b79713.chunk.js.map": "/gundamtrooperx/testingreactappissues/static/js/3.83b79713.chunk.js.map",
-    "index.html": "/gundamtrooperx/testingreactappissues/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/gundamtrooperx/testingreactappissues/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d9fbd93a.chunk.js.LICENSE.txt": "/gundamtrooperx/testingreactappissues/static/js/2.d9fbd93a.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/gundamtrooperx/testingreactappissues/static/media/logo.103b5fa1.svg"
+    "main.css": "/testingreactappissues/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/testingreactappissues/static/js/main.57bf147e.chunk.js",
+    "main.js.map": "/testingreactappissues/static/js/main.57bf147e.chunk.js.map",
+    "runtime-main.js": "/testingreactappissues/static/js/runtime-main.b2b1832c.js",
+    "runtime-main.js.map": "/testingreactappissues/static/js/runtime-main.b2b1832c.js.map",
+    "static/js/2.d9fbd93a.chunk.js": "/testingreactappissues/static/js/2.d9fbd93a.chunk.js",
+    "static/js/2.d9fbd93a.chunk.js.map": "/testingreactappissues/static/js/2.d9fbd93a.chunk.js.map",
+    "static/js/3.83b79713.chunk.js": "/testingreactappissues/static/js/3.83b79713.chunk.js",
+    "static/js/3.83b79713.chunk.js.map": "/testingreactappissues/static/js/3.83b79713.chunk.js.map",
+    "index.html": "/testingreactappissues/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/testingreactappissues/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d9fbd93a.chunk.js.LICENSE.txt": "/testingreactappissues/static/js/2.d9fbd93a.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/testingreactappissues/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e31b880.js",
+    "static/js/runtime-main.b2b1832c.js",
     "static/js/2.d9fbd93a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.57bf147e.chunk.js"
